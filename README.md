@@ -1,5 +1,7 @@
 # rab3
+
 This code was used in the following project.
+
 TITLE: Memory formation requires Rab3-mediated presynaptic depression 
 AUTHORS: Divya Sachidanandan, Aishwarya Aravamudhan, Isabella S. Balles, Achmed Mrestani, Jana Nerlich, Marius Lamberty, Natalie Hasenauer, Nadine Ehmann, Dennis Pauls, Teresa Seubert, Alice Fallaha, Isabella Maiellaro, Mareike Selcho, Manfred Heckmann, David Owald, Stefan Hallermann, Robert J. Kittel
 
